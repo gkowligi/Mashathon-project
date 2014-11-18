@@ -1,1 +1,0 @@
-include ':app', ':tests', ':FriendPickerSample', ':PlacePickerSample', ':HelloFacebookSample', ':facebook', ':RPSSample', ':TestApp', ':SwitchUserSample', ':Scrumptious'
